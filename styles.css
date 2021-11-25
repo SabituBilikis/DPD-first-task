@@ -1,0 +1,39 @@
+
+body{
+  margin: 10px;  
+}
+
+.header {
+    background-color: black;
+    margin: 5px;
+    padding: 20px;
+}
+
+button.nav {
+    background-color: darkslategray;
+    border-color: darkslategray;
+    border-radius: 8px;
+    color: green;
+    margin-left: 5px;
+    padding: 10px;
+    
+}
+
+button a {
+
+  color: green;
+  text-decoration: none;
+   
+      
+}
+
+section.body{
+    background-color: burlywood;
+    margin: 5px;
+}
+.head {
+ padding: 20px;
+}
+.head-para {
+    color: green;
+}
